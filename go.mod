@@ -1,4 +1,4 @@
-module github.com/greengeckowizard/RcloneTelegram
+module github.com/pcaglar/RcloneTelegram
 
 require github.com/rclone/rclone v1.55.1
 
